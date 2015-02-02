@@ -1,0 +1,7 @@
+.todo-item.done .item-text {
+	text-decoration: line-through;
+}
+
+.todo-item.done .item-done-button {
+	display: none;
+}
